@@ -8,6 +8,12 @@ h1 {
   float: right;
   background-color: #FFF;
   border: 5px solid #3d1d5d;
+  width: 400%;
+}
+
+.sidebar{
+  display: flex;
+  flex-wrap: wrap;
 }
 
 #contact {
