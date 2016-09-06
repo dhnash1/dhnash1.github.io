@@ -5,6 +5,7 @@ body {
 
 h1 {
   Color: #EBEB75;
-  justify-content: right;
+  float: right;
+  background-color: #FFF;
 }
 
