@@ -1,23 +1,10 @@
-
-
-p {
-Color: red;
-}
-
-h1 {
-  Color: blue;
-
-}
-
-h3 {
-  Color: green;
-}
-
-#donkus{
-  font-family: 'Courier New', sans-serif;
-  color:Purple;
-}
-
 body { 
   background: url(http://atextures.com/wp-content/uploads/2014/08/Patterns-Background-25.jpg);
 }
+
+
+h1 {
+  Color: #EBEB75;
+  display: flex;
+}
+
