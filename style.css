@@ -7,5 +7,6 @@ h1 {
   Color: #EBEB75;
   float: right;
   background-color: #FFF;
+  border: 5px solid black;
 }
 
