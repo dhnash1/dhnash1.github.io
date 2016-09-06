@@ -4,7 +4,7 @@ Color: red;
 
 h1 {
   Color: blue;
-  border: 10px solid #BADA55;
+
 }
 
 h3 {
@@ -12,6 +12,6 @@ h3 {
 }
 
 #donkus{
-  font-family: 'Comic Sans MS', sans-serif;
+  font-family: 'Courier New', sans-serif;
   color:Purple;
 }
