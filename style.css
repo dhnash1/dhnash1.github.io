@@ -6,9 +6,10 @@ body {
 h1 {
   Color: #EBEB75;
   float: right;
-  background-color: #FFF;
+  background-color: #DCCDDB;
   border: 5px solid #3d1d5d;
   width: 400%;
+  text-align: right;
 }
 
 .sidebar{
