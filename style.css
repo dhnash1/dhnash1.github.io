@@ -37,6 +37,6 @@ nav li{
 p{
   Background-color: #eeeeee;
   Border: 5px solid gray;
-  display: block;
-  margin: auto;
+  display: flex;
+  flex-direction: column;
 }
