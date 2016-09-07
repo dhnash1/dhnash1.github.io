@@ -19,6 +19,7 @@ h1 {
 
 #contact {
   float: right;
+  margin: 5px;
 }
 
 nav li{
@@ -39,4 +40,5 @@ p{
   Border: 5px solid gray;
   display: flex;
   flex-direction: column;
+  margin: 5px;
 }
