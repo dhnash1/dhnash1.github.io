@@ -17,7 +17,7 @@ h1 {
   flex-wrap: wrap;
 }
 
-#contact {
+.contact {
   float: right;
   margin: 5px;
 }
@@ -42,3 +42,4 @@ p{
   flex-direction: column;
   margin: 5px;
 }
+/*remember, .class, #ID */
