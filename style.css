@@ -4,6 +4,8 @@ body {
 
 #pic{
   float: right;
+  position: relative;
+  right: 100px ;
 }
 
 h1 {
