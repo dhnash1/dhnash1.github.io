@@ -6,6 +6,8 @@ body {
   float: right;
   position: relative;
   right: 400px ;
+  bottom: 100px;
+  Border: 5px solid #3d1d5d;
 }
 
 h1 {
