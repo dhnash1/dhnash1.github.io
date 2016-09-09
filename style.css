@@ -55,5 +55,6 @@ p{
   display: flex;
   flex-direction: column;
   margin: 5px;
+  padding: 5px 10cm 5px 10px;
 }
 /*remember, .class, #ID */
