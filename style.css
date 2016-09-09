@@ -57,4 +57,7 @@ p{
   margin: 5px;
   padding: 5px 10cm 5px 10px;
 }
+#refs{
+  text-align: center;
+}
 /*remember, .class, #ID */
