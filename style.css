@@ -4,16 +4,12 @@ body {
 
 #pic{
   float: right;
-  position: relative;
-  right: 400px ;
-  bottom: 100px;
+  margin: 100px;
   Border: 5px solid #3d1d5d;
 }
 #vid{
   float: right;
-  position: relative;
-  right: 400px;
-  bottom: 200px;
+  margin: 200px;
   border:5px solid #3d1d5d;
   
 }
