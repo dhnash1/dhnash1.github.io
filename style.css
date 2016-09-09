@@ -9,6 +9,12 @@ body {
   bottom: 100px;
   Border: 5px solid #3d1d5d;
 }
+#vid{
+  float: right;
+  position: relative;
+  right: 400px;
+  
+}
 
 h1 {
   Color: #6E7175;
