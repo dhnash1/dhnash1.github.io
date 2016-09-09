@@ -2,6 +2,9 @@ body {
   background: url(nasty_fabric_@2X.png);
 }
 
+#pic{
+  float: right;
+}
 
 h1 {
   Color: #6E7175;
