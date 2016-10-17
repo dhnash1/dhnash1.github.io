@@ -17,13 +17,15 @@ body {
   
 }
 
-footer h1{
+footer h2{
   color: #000;
   width: 500px;
   margin: 0 auto;
   border: 0 0 3px 0 solid #000;
   position: absolute;
   bottom: 0;
+  left: auto;
+  right: auto;
   
 }
 
