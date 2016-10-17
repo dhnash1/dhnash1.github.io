@@ -17,6 +17,16 @@ body {
   
 }
 
+footer h1{
+  color: #000;
+  width: 500px;
+  margin: 0 auto;
+  border: 0 0 3px 0 solid #000;
+  position: absolute;
+  bottom: 0;
+  
+}
+
 h1 {
   Color: #6E7175;
   float: right;
@@ -25,14 +35,7 @@ h1 {
   width: 400%;
   text-align: right;
 }
-footer h1{
-  color: #000;
-  width: 500px;
-  margin: 0 auto;
-  border: 0 0 3px 0 solid #000;
-  float: down;
-  
-}
+
 
 a{
   text-decoration: none;
