@@ -32,7 +32,7 @@ a{
 }
 a:hover{
   position: relative;
-  down: 5px;
+  color: limegreen;
 }
 
 .contact {
