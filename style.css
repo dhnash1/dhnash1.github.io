@@ -34,6 +34,12 @@ h1 {
 .contact {
   margin: 5px;
 }
+nav{
+  width: 1000px;
+  Margin-left: auto;
+  margin-right: auto;
+
+}
 
 nav li{
   display: inline;
@@ -47,10 +53,6 @@ nav li{
   border-right: 1px solid #333333;
   border-bottom: 1px solid #333333;
   border-left: 1px solid #CCCCCC;
-}
-nav{
-  Margin-left: auto;
-  margin-right: auto;
 }
 
 .info-box{
