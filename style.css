@@ -30,7 +30,7 @@ a{
   text-decoration: none;
   flex-wrap: wrap;
 }
-a:hover{
+a:active{
   position: relative;
   color: limegreen;
 }
@@ -58,6 +58,10 @@ nav li{
   border-right: 1px solid #333333;
   border-bottom: 1px solid #333333;
   border-left: 1px solid #CCCCCC;
+}
+nav li:active{
+  position: relative;
+  down: 10px;
 }
 
 .info-box{
