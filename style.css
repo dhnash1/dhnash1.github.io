@@ -61,7 +61,7 @@ nav li{
 }
 nav li:active{
   position: relative;
-  down: 10px;
+  top: 10px;
 }
 
 .info-box{
