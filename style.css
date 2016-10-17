@@ -26,8 +26,8 @@ h1 {
   text-align: right;
 }
 
-.sidebar{
-  display: flex;
+a{
+  text-decoration: none;
   flex-wrap: wrap;
 }
 
