@@ -52,6 +52,10 @@ nav{
   Margin-left: auto;
   margin-right: auto;
 }
+
+.info-box{
+ box-shadow: 5px 5px 10px #000; 
+}
 p{
   Background-color: #eeeeee;
   Border: 5px solid gray;
@@ -69,8 +73,6 @@ header{
 .main{
   box-shadow: 5px 5px 5px #000;
  {
-.info-box{
-  box-shadow: 5px 5px 10px #000; 
-   }
+
 /*remember, .class, #ID */
 /*This website looks like something fresh out of the early 2000's */ 
