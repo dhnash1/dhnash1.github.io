@@ -69,5 +69,8 @@ header{
 .main{
   box-shadow: 5px 5px 5px #000;
  {
+.info-box{
+  box-shadow: 5px 5px 10px #000; 
+   }
 /*remember, .class, #ID */
 /*This website looks like something fresh out of the early 2000's */ 
