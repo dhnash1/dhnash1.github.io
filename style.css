@@ -6,6 +6,7 @@ body {
   float: right;
   margin: 100px;
   Border: 5px solid #3d1d5d;
+  box-shadow: 5px 5px 10px #FFF;
 }
 #vid{
   float: right;
