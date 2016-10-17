@@ -25,6 +25,12 @@ h1 {
   width: 400%;
   text-align: right;
 }
+footer h1{
+  color: #666666;
+  width: 500px;
+  margin: 0 auto;
+  border-bottom: 3px;
+}
 
 a{
   text-decoration: none;
