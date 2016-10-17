@@ -30,6 +30,10 @@ a{
   text-decoration: none;
   flex-wrap: wrap;
 }
+a:hover{
+  position: relative;
+  down: 5px;
+}
 
 .contact {
   margin: 5px;
